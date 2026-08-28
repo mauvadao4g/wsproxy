@@ -1,6 +1,6 @@
 #!/bin/bash
 
-ws_raw="https://raw.githubusercontent.com/mauvadao4g/ModosDoMau/refs/heads/main/WEBSOCKT/wsproxy.py"
+ws_raw="https://raw.githubusercontent.com/mauvadao4g/wsproxy/refs/heads/main/proxy.py"
 PROXY="$HOME/PROXY"
 SESSION="ws_proxy"
 
